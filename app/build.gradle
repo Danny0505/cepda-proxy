@@ -5,8 +5,7 @@ plugins {
 
 android {
     namespace 'com.cepda.firetv.launcherwrapper'
-    compileSdk 35
-
+    compileSdk 34
     defaultConfig {
         applicationId "com.cepda.firetv.launcherwrapper"
         minSdk 21
