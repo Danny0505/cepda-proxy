@@ -1,0 +1,4 @@
+com.cepda.firetv.launcherwrapper.test.app-androidTest-0 C:\Users\Cepeda\Downloads\cepda-proxy-main\app\build\generated\res\resValues\androidTest\debug
+com.cepda.firetv.launcherwrapper.test.app-mergeDebugAndroidTestResources-1 C:\Users\Cepeda\Downloads\cepda-proxy-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.cepda.firetv.launcherwrapper.test.app-mergeDebugAndroidTestResources-2 C:\Users\Cepeda\Downloads\cepda-proxy-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.cepda.firetv.launcherwrapper.test.app-debugAndroidTest-3 C:\Users\Cepeda\Downloads\cepda-proxy-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

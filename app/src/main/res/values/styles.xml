@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CepedaProxy" parent="Theme.Leanback">
+        <item name="android:windowBackground">@color/db_background</item>
+        <item name="android:colorBackground">@color/db_background</item>
+        <item name="android:textColorPrimary">@color/db_text_primary</item>
+        <item name="android:textColorSecondary">@color/db_text_secondary</item>
+        <item name="colorAccent">@color/db_accent_orange</item>
+        <item name="android:banner">@drawable/app_banner</item>
+    </style>
+</resources>

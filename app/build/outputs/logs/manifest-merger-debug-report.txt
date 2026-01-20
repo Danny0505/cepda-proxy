@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\76f2ca0efb65518be5b6f81ef6648717\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\45001695665a831ee59e46dea6bf3bb3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\eeaf11dce0876a65dbf28a0322857680\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Cepeda\.gradle\caches\8.13\transforms\5b7447dc26d4440c0fe32be288845336\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\20243313d787b6eb0242e7ffa4f42cdd\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\cbb2076a51a5006a20993b4e915ff184\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\a3f338b52f8a29a2afc10cefbe28d3f5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\bd3a884035bd8d3c572e18bb25f8722b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2a3a33b0ba211adc71df6d4b75b9d7f2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\c24e03bbf7652657ea57219c09351409\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\58ecde26da8d0fec88fd57b8cd449146\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\f9c474c6558dcf6c251350bb5693dc85\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\75e6f346ce1b8e7d14720eead17b35c2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\d73f764e69fbc89f06aafa21273ecbd3\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\81414266c3bb4ae95039ee04c3f3f112\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8ed43f44b7cecd000fdb9b92f90e37d5\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2623cdaf77207534d04b1767b94af38b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\ebeae85aaddc3d04a7c9090a74b80f80\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8d6b7d95abd13cfcf7ddfb56ee54b364\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2b69d45adccac497df46e3d1f5454380\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\9315b3d71e29dce68fa1d25381db1a0d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\d0da6ca68ba42c63085b5eee4c90e100\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\5d3b803ad7fecc083251c2f7dd9feddb\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\6fbbf950ec8465e783750c88fcef02e4\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8af3b6b79c2d4fba55590056b55971d1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\61197c1176afac0ffdebb589de20d5fc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\714ed0bece98077a3e0e989d91cbe3d1\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\f92ea5486f836c19cdbcb4592e66dd7c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\44f7baab3458f197fdf2030677fbdee6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\dba8b346c444d2d8198210131bf8ace3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\a5a3b672640e574838fb3e18812802ab\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\3c804aa6bc79c8f1a8d7ee2c1a3f4400\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\bfec2e1aacfe5221a14c9380f4676540\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\55f474eb24cca55d277004bdbb8f4326\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\11357857f27ba21320a7012633744f5f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\9228b8b0ad09f906fbdc698a4a451484\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.software.leanback
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:4:5-6:35
+	android:required
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:6:9-32
+	android:name
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:5:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:8:9-52
+application
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:11:5-30:19
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:11:5-30:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\44f7baab3458f197fdf2030677fbdee6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\44f7baab3458f197fdf2030677fbdee6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:13:9-44
+	android:allowBackup
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:16:9-49
+activity#com.cepda.firetv.launcherwrapper.MainActivity
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:18:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:22:13-50
+	android:launchMode
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:21:13-44
+	android:exported
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:25:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:26:17-86
+	android:name
+		ADDED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:26:27-83
+uses-sdk
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\76f2ca0efb65518be5b6f81ef6648717\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\76f2ca0efb65518be5b6f81ef6648717\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\45001695665a831ee59e46dea6bf3bb3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\45001695665a831ee59e46dea6bf3bb3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\eeaf11dce0876a65dbf28a0322857680\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\eeaf11dce0876a65dbf28a0322857680\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Cepeda\.gradle\caches\8.13\transforms\5b7447dc26d4440c0fe32be288845336\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Cepeda\.gradle\caches\8.13\transforms\5b7447dc26d4440c0fe32be288845336\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\20243313d787b6eb0242e7ffa4f42cdd\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\20243313d787b6eb0242e7ffa4f42cdd\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\cbb2076a51a5006a20993b4e915ff184\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\cbb2076a51a5006a20993b4e915ff184\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\a3f338b52f8a29a2afc10cefbe28d3f5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\a3f338b52f8a29a2afc10cefbe28d3f5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\bd3a884035bd8d3c572e18bb25f8722b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\bd3a884035bd8d3c572e18bb25f8722b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2a3a33b0ba211adc71df6d4b75b9d7f2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2a3a33b0ba211adc71df6d4b75b9d7f2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\c24e03bbf7652657ea57219c09351409\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\c24e03bbf7652657ea57219c09351409\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\58ecde26da8d0fec88fd57b8cd449146\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\58ecde26da8d0fec88fd57b8cd449146\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\f9c474c6558dcf6c251350bb5693dc85\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\f9c474c6558dcf6c251350bb5693dc85\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\75e6f346ce1b8e7d14720eead17b35c2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\75e6f346ce1b8e7d14720eead17b35c2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\d73f764e69fbc89f06aafa21273ecbd3\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\d73f764e69fbc89f06aafa21273ecbd3\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\81414266c3bb4ae95039ee04c3f3f112\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\81414266c3bb4ae95039ee04c3f3f112\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8ed43f44b7cecd000fdb9b92f90e37d5\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8ed43f44b7cecd000fdb9b92f90e37d5\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2623cdaf77207534d04b1767b94af38b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2623cdaf77207534d04b1767b94af38b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\ebeae85aaddc3d04a7c9090a74b80f80\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\ebeae85aaddc3d04a7c9090a74b80f80\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8d6b7d95abd13cfcf7ddfb56ee54b364\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8d6b7d95abd13cfcf7ddfb56ee54b364\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2b69d45adccac497df46e3d1f5454380\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\2b69d45adccac497df46e3d1f5454380\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\9315b3d71e29dce68fa1d25381db1a0d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\9315b3d71e29dce68fa1d25381db1a0d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\d0da6ca68ba42c63085b5eee4c90e100\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\d0da6ca68ba42c63085b5eee4c90e100\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\5d3b803ad7fecc083251c2f7dd9feddb\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\5d3b803ad7fecc083251c2f7dd9feddb\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\6fbbf950ec8465e783750c88fcef02e4\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\6fbbf950ec8465e783750c88fcef02e4\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8af3b6b79c2d4fba55590056b55971d1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\8af3b6b79c2d4fba55590056b55971d1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\61197c1176afac0ffdebb589de20d5fc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\61197c1176afac0ffdebb589de20d5fc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\714ed0bece98077a3e0e989d91cbe3d1\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\714ed0bece98077a3e0e989d91cbe3d1\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\f92ea5486f836c19cdbcb4592e66dd7c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\f92ea5486f836c19cdbcb4592e66dd7c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\44f7baab3458f197fdf2030677fbdee6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\44f7baab3458f197fdf2030677fbdee6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\dba8b346c444d2d8198210131bf8ace3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\dba8b346c444d2d8198210131bf8ace3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\a5a3b672640e574838fb3e18812802ab\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\a5a3b672640e574838fb3e18812802ab\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\3c804aa6bc79c8f1a8d7ee2c1a3f4400\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\3c804aa6bc79c8f1a8d7ee2c1a3f4400\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\bfec2e1aacfe5221a14c9380f4676540\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\bfec2e1aacfe5221a14c9380f4676540\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\55f474eb24cca55d277004bdbb8f4326\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\55f474eb24cca55d277004bdbb8f4326\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\11357857f27ba21320a7012633744f5f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\11357857f27ba21320a7012633744f5f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\9228b8b0ad09f906fbdc698a4a451484\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\9228b8b0ad09f906fbdc698a4a451484\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\643f45c1129e176ef1b3efbf8ab53c68\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.cepda.firetv.launcherwrapper.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.cepda.firetv.launcherwrapper.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color db_accent_blue
+color db_accent_orange
+color db_accent_red
+color db_background
+color db_focus_yellow
+color db_text_primary
+color db_text_secondary
+drawable app_banner
+string app_name
+string support_email
+style Theme.CepedaProxy

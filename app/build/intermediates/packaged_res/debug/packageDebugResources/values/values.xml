@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="db_accent_blue">#2196F3</color>
+    <color name="db_accent_orange">#FF9800</color>
+    <color name="db_accent_red">#F44336</color>
+    <color name="db_background">#121212</color>
+    <color name="db_focus_yellow">#FFEB3B</color>
+    <color name="db_text_primary">#FFFFFF</color>
+    <color name="db_text_secondary">#B0BEC5</color>
+    <string name="app_name">Cepeda Proxy</string>
+    <string name="support_email">sasuke_32@gmail.com</string>
+    <style name="Theme.CepedaProxy" parent="Theme.Leanback">
+        <item name="android:windowBackground">@color/db_background</item>
+        <item name="android:colorBackground">@color/db_background</item>
+        <item name="android:textColorPrimary">@color/db_text_primary</item>
+        <item name="android:textColorSecondary">@color/db_text_secondary</item>
+        <item name="colorAccent">@color/db_accent_orange</item>
+        <item name="android:banner">@drawable/app_banner</item>
+    </style>
+</resources>
