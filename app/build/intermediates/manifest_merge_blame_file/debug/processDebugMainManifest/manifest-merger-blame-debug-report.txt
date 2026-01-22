@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cepda.firetv.launcherwrapper"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature
+11-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:4:5-6:35
+12        android:name="android.software.leanback"
+12-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:5:9-49
+13        android:required="true" />
+13-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:6:9-32
+14    <uses-feature
+14-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:7:5-9:36
+15        android:name="android.hardware.touchscreen"
+15-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:8:9-52
+16        android:required="false" />
+16-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:9:9-33
+17
+18    <permission
+18-->[androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.cepda.firetv.launcherwrapper.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.cepda.firetv.launcherwrapper.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:11:5-30:19
+25        android:allowBackup="true"
+25-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.12.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\695d5496a82532543728425d76712271\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="true"
+29        android:icon="@drawable/app_banner"
+29-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:13:9-44
+30        android:label="@string/app_name"
+30-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:14:9-41
+31        android:supportsRtl="true"
+31-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:15:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.CepedaProxy" >
+33-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:16:9-49
+34        <activity
+34-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:18:9-28:20
+35            android:name="com.cepda.firetv.launcherwrapper.MainActivity"
+35-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:19:13-41
+36            android:exported="true"
+36-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:20:13-36
+37            android:launchMode="singleTask"
+37-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:21:13-44
+38            android:screenOrientation="landscape" >
+38-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:22:13-50
+39            <intent-filter>
+39-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:23:13-27:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:24:17-69
+40-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:24:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:25:17-77
+42-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:25:27-74
+43                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+43-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:26:17-86
+43-->C:\Users\Cepeda\Downloads\cepda-proxy-main\app\src\main\AndroidManifest.xml:26:27-83
+44            </intent-filter>
+45        </activity>
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+49            android:authorities="com.cepda.firetv.launcherwrapper.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Cepeda\.gradle\caches\8.13\transforms\7a63783a3ce828eebb1d4a041279f359\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Cepeda\.gradle\caches\8.13\transforms\30b157212658516d85eee03f8ccdfd41\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>
