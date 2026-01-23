@@ -12,7 +12,10 @@ import androidx.leanback.widget.HeaderItem
 import androidx.leanback.widget.ImageCardView
 import androidx.leanback.widget.ListRow
 import androidx.leanback.widget.ListRowPresenter
+import androidx.leanback.widget.OnItemViewClickedListener
 import androidx.leanback.widget.Presenter
+import androidx.leanback.widget.Row
+import androidx.leanback.widget.RowPresenter
 import com.cepda.firetv.launcherwrapper.model.AppItem
 
 class MainLauncherActivity : BrowseSupportFragment() {
@@ -26,6 +29,7 @@ class MainLauncherActivity : BrowseSupportFragment() {
         appList = appRepository.getLeanbackUserApps()
 
         setupUI()
+        setupClickListener()
         addSupportOverlay()
     }
 
@@ -41,6 +45,14 @@ class MainLauncherActivity : BrowseSupportFragment() {
 
         adapter = ArrayObjectAdapter(ListRowPresenter()).apply {
             add(ListRow(HeaderItem("Mis Aplicaciones"), listRowAdapter))
+        }
+    }
+
+    private fun setupClickListener() {
+        onItemViewClickedListener = OnItemViewClickedListener { itemViewHolder, item, rowViewHolder, row ->
+            if (item is AppItem) {
+                AppLauncher.launchApp(requireContext(), item.componentName)
+            }
         }
     }
 
@@ -63,7 +75,7 @@ class MainLauncherActivity : BrowseSupportFragment() {
             val cardView = ImageCardView(parent.context).apply {
                 isFocusable = true
                 isFocusableInTouchMode = true
-                infoAreaBackgroundColor = ContextCompat.getColor(context, R.color.db_accent_blue)
+                setInfoAreaBackgroundColor(ContextCompat.getColor(context, R.color.db_accent_blue))
             }
             return ViewHolder(cardView)
         }
@@ -88,12 +100,6 @@ class MainLauncherActivity : BrowseSupportFragment() {
             val cardView = viewHolder.view as ImageCardView
             cardView.badgeImage = null
             cardView.mainImage = null
-        }
-    }
-
-    override fun onItemClicked(itemViewHolder: Presenter.ViewHolder?, item: Any?, rowViewHolder: RowPresenter.ViewHolder?, row: Row?) {
-        if (item is AppItem) {
-            AppLauncher.launchApp(requireContext(), item.componentName)
         }
     }
 }
