@@ -92,7 +92,12 @@ class MainLauncherFragment : BrowseSupportFragment() {
             Log.d(TAG, "onItemClicked: Click detectado en item: $item")
             if (item is AppItem) {
                 Log.d(TAG, "onItemClicked: Lanzando app ${item.label}")
-                AppLauncher.launchApp(requireContext(), item.componentName)
+                // Usar el método via PackageManager que es como lo hace el launcher nativo
+                // Esto debería evitar la advertencia de Fire OS para apps sideloaded
+                AppLauncher.launchAppViaPackageManager(
+                    requireActivity(),
+                    item.componentName.packageName
+                )
             }
         }
     }
